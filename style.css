@@ -95,14 +95,13 @@ section{ position:relative; padding: 130px 0; }
 .logo {
     display: flex;
     align-items: center;
-    text-decoration: none;
+    height: 70px;
 }
 
 .logo img {
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     object-fit: contain;
-    display: block;
 }
 /* =========================================================
    CURSOR
