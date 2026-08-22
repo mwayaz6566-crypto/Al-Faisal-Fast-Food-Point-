@@ -95,12 +95,12 @@ section{ position:relative; padding: 130px 0; }
 .logo {
     display: flex;
     align-items: center;
-    height: 45px;
+    height: 65px;
 }
 
 .logo img {
-    width: 45px;
-    height: 45px;
+    width: 65px;
+    height: 65px;
     object-fit: contain;
 }
 /* =========================================================
