@@ -92,7 +92,18 @@ section{ position:relative; padding: 130px 0; }
 @media (prefers-reduced-motion: reduce){
   *{ animation-duration: .001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; scroll-behavior:auto !important; }
 }
+.logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
 
+.logo img {
+    width: 75px;
+    height: 75px;
+    object-fit: contain;
+    display: block;
+}
 /* =========================================================
    CURSOR
 ========================================================= */
